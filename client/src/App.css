@@ -1,0 +1,12 @@
+.main-div{
+  box-sizing: border-box;
+  margin-left: 240px;
+  display: flex;
+  flex-direction: column;
+}
+
+@media only screen and (max-width: 660px) {
+  .main-div {
+    margin-left: 0;
+  }
+}

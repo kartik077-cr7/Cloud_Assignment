@@ -1,0 +1,39 @@
+.goal-box-main{
+    position: 'relative';
+    height: 350px;
+    width: 100%;
+}
+
+.allGoals-grid{
+   width: 100%;
+}
+
+.goal-div h1{
+    width: 100%;
+    text-align: center;
+}
+
+.goal-circle{
+    position: absolute;
+    left: 9.5em;
+}
+
+.goal-value{
+    position: absolute;
+    left: 7.2em;
+    top: 4.5em;
+}
+
+
+
+.show-figures{
+    position: absolute;
+    top: 13em;
+    left: 22em;
+}
+
+
+.alter-div{
+   position: absolute;
+   left: -14em;
+}
